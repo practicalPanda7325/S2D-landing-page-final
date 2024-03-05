@@ -1,0 +1,42 @@
+.judge-shell{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+img{
+    display: block;
+}
+
+p{
+    display: block;
+}
+
+.judge{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.judge-pic{
+    height: 240px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.judge-name{
+    margin-left: 25px;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.judge-job{
+    margin-left: 25px;
+}

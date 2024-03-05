@@ -1,0 +1,127 @@
+.page{
+    display: grid;
+    grid-template-columns: 1fr 1.5fr;
+    margin-top: 0px;
+    background-color:antiquewhite;
+}
+
+.contri{
+    margin-left: 40px;
+    padding-left: 30px;
+    margin-top: 70px;
+    border-radius: 30px;
+    background-color: rgb(30,30,30);
+    margin-bottom: 80px;
+    padding-right: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+hr{
+    width: 222px;
+    margin-left: 0px;
+    margin-top: 30px;
+    opacity: 0.6;
+    height: 0.1px;
+    
+}
+
+.total-pool{
+    background-color: rgb(198, 158, 1);
+    color:white;
+    padding-top:1px;
+    padding-left: 15px;
+    padding-bottom: 2px;
+    border-radius: 15px;
+    padding-right: 15px;
+}
+
+.prize-pool{
+    color:white;
+    font-weight:800;
+    font-size: 22px;
+    line-height: 20px;
+}
+
+.dollar{
+    color:white;
+    font-weight:800;
+    font-size: 30px;
+    line-height: 30px;
+}
+
+.title{
+    color:rgb(170,170,170) ;
+    font-weight:800;
+    font-size: 22px;
+    margin-top: 15px;
+}
+
+.stacktoodeep{
+    background-color: rgb(1, 72, 239);
+    color:white;
+    padding-top:1px;
+    padding-left: 15px;
+    padding-bottom: 2px;
+    border-radius: 15px;
+    padding-right: 15px;
+    color:white;
+    font-weight:600;
+    font-size: 22px;
+    line-height: 20px;
+}
+
+.partners{
+    color:rgb(170,170,170);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.distribution{
+    margin-left: 40px;
+    padding-left: 30px;
+    margin-top: 70px;
+    margin-bottom: 40px;
+    padding-right: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.Track{
+    color:black;
+}
+
+.track-name{
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.track-desc{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.prize{
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 25px;
+}
+
+.grand-prize{
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.prize-nos{
+    color:rgb(120,120,120);
+    padding-top: 0px;
+    margin-top: 0px;
+    line-height: 10px;
+    font-weight: 700;
+}
